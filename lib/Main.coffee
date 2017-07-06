@@ -40,7 +40,7 @@ module.exports =
     ###*
      * The name of the package.
     ###
-    packageName: 'php-integrator-autocomplete-plus'
+    packageName: 'php-integrator-autocomplete-plus-legacy-php56'
 
     ###*
      * The configuration object.
